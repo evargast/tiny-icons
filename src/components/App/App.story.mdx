@@ -25,7 +25,6 @@ export const ComponentStory = props => <App {...props} />;
     <Story
         name="Enabled"
         args={{
-            text: "Hello",
             disabled: false,
             onClick: action("Button clicked!"),
         }}
@@ -36,7 +35,6 @@ export const ComponentStory = props => <App {...props} />;
     <Story
         name="Disabled"
         args={{
-            text: "World",
             disabled: true,
         }}
     >

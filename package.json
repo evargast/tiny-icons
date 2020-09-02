@@ -31,6 +31,7 @@
     "homepage": "https://github.com/evargast/webpack-react-spectrum#readme",
     "devDependencies": {
         "@mdx-js/loader": "^1.6.16",
+        "@spectrum-icons/workflow": "^3.1.0",
         "@storybook/addon-actions": "^6.0.19",
         "@storybook/addon-controls": "^6.0.19",
         "@storybook/addon-docs": "^6.0.19",
